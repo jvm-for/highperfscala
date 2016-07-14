@@ -1,7 +1,7 @@
 name := "highperfscala"
 organization := "highperfscala"
 
-val scalazVersion = "7.2.2"
+val scalazVersion = "7.2.3"
 val specsVersion = "3.8.4"
 
 val slf4s = "org.slf4s" %% "slf4s-api" % "1.7.12"
